@@ -1,0 +1,21 @@
+form {
+  max-width: 350px;
+  font-family: sans-serif;
+  padding: 32px;
+}
+
+label, input {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+label {
+  color: hsl(0, 0%, 30%);
+  margin-bottom: 5px;
+}
+
+input {
+  padding: 16px;
+  font-size: 24px;
+}
